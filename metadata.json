@@ -1,0 +1,7 @@
+{
+  "name": "ESC to close Overview",
+  "uuid": "escape-to-close-overview@anatolyeltsov",
+  "description": "By default Gnome switches to Windows view when pressing ESC in Apps view. Fix that!",
+  "shell-version": ["45", "46", "47", "48", "49"],
+  "url": "https://github.com/anatolyeltsov/gnome-ext-escape-to-close-overview"
+}
