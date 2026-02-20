@@ -2,7 +2,7 @@ NAME=escape-to-close-overview
 DOMAIN=anatolyeltsov
 
 DEST_DIR=dist
-FILES_TO_COPY = metadata.json README.md LICENSE preview.gif
+FILES_TO_COPY = metadata.json README.md LICENSE
 
 .PHONY: all pack install clean
 
